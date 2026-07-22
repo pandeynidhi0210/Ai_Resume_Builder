@@ -34,7 +34,7 @@ Achievements
 Languages
 Interests
 
-https://github.com/pandeynidhi0210/Ai_Resume_Builder/blob/1116929a7b1ae05fcaf5aaa2ea287d200b123dd2/Ai_processing_openai_api.png
+![image alt](https://github.com/pandeynidhi0210/Ai_Resume_Builder/blob/1116929a7b1ae05fcaf5aaa2ea287d200b123dd2/Ai_processing_openai_api.png)
 
 6. Resume Form Auto-Fill
 The AI-generated data is returned from the backend.
