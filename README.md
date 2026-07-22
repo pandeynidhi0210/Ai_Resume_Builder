@@ -1,4 +1,4 @@
-
+![image alt](https://github.com/pandeynidhi0210/Ai_Resume_Builder/blob/a5282395332c60c3c52ace0e382ea0eac59498fb/Landing_page.png)
 
 
 
