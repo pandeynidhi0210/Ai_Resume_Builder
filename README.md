@@ -6,6 +6,7 @@ The user clicks the "Get Started" button to begin creating a resume.
 
 ![image alt](https://github.com/pandeynidhi0210/Ai_Resume_Builder/blob/a5282395332c60c3c52ace0e382ea0eac59498fb/Landing_page.png)
 
+
 2. AI Resume Description Input
 The user enters a detailed description about themselves in natural language.
 Example includes:
@@ -18,6 +19,7 @@ Career Objective
 The user clicks Generate Resume.
 
 ![image alt](https://github.com/pandeynidhi0210/Ai_Resume_Builder/blob/f2fcd345efa6416a8e7390c82c558d1b2bb4ea7c/Enter_resume_description.png)
+
 
 3. AI Processing (OpenAI API)
 The frontend sends the user's description to the Spring Boot backend.
@@ -36,7 +38,8 @@ Interests
 
 ![image alt](https://github.com/pandeynidhi0210/Ai_Resume_Builder/blob/1116929a7b1ae05fcaf5aaa2ea287d200b123dd2/Ai_processing_openai_api.png)
 
-6. Resume Form Auto-Fill
+
+4. Resume Form Auto-Fill
 The AI-generated data is returned from the backend.
 All resume fields are automatically filled in the editable resume form.
 Users can:
@@ -44,18 +47,22 @@ Modify generated content
 Add new sections
 Remove unwanted entries
 Update information before finalizing
-7. Resume Submission
+
+![image alt](https://github.com/pandeynidhi0210/Ai_Resume_Builder/blob/0d6f75c4d2a9e851a6d06f11cfde85b313ea6d2e/Resume%20Form%20Auto-Fill%20The%20AI-generated%20data.png)
+
+
+5. Resume Submission
 After reviewing the generated content, the user clicks Submit.
 The application validates the data.
 The structured resume information is stored in the MySQL database.
-8. Resume Preview
+6. Resume Preview
 The backend fetches the stored data.
 The resume is rendered using a professional HTML/CSS template.
 Users can preview the complete resume before downloading.
-9. PDF Generation
+7. PDF Generation
 When the user clicks Print/Download, the Spring Boot backend converts the HTML resume into a PDF.
 A professional ATS-friendly resume PDF is generated.
-10. Download Resume
+8. Download Resume
 The generated PDF is automatically downloaded.
 The user receives a ready-to-use resume that can be submitted for job applications.
 
