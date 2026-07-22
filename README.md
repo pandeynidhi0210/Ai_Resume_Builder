@@ -63,10 +63,14 @@ The structured resume information is stored in the MySQL database.
 The backend fetches the stored data.
 The resume is rendered using a professional HTML/CSS template.
 Users can preview the complete resume before downloading.
-8. PDF Generation
+
+![image alt](https://github.com/pandeynidhi0210/Ai_Resume_Builder/blob/5f95bd9dda3a790f23c3038b988e001f8bdab6ae/Resume%20Preview.png)
+
+
+9. PDF Generation
 When the user clicks Print/Download, the Spring Boot backend converts the HTML resume into a PDF.
 A professional ATS-friendly resume PDF is generated.
-9. Download Resume
+10. Download Resume
 The generated PDF is automatically downloaded.
 The user receives a ready-to-use resume that can be submitted for job applications.
 
