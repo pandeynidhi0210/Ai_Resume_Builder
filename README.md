@@ -1,3 +1,4 @@
+AutoCV – AI-Powered Resume Generator | Project Workflow
 1. Landing Page
 The user opens the AutoCV website.
 The home page introduces the AI Resume Generator.
