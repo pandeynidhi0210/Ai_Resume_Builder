@@ -6,7 +6,7 @@ The user clicks the "Get Started" button to begin creating a resume.
 
 ![image alt](https://github.com/pandeynidhi0210/Ai_Resume_Builder/blob/a5282395332c60c3c52ace0e382ea0eac59498fb/Landing_page.png)
 
-3. AI Resume Description Input
+2. AI Resume Description Input
 The user enters a detailed description about themselves in natural language.
 Example includes:
 Education
@@ -19,7 +19,7 @@ The user clicks Generate Resume.
 
 ![image alt](https://github.com/pandeynidhi0210/Ai_Resume_Builder/blob/f2fcd345efa6416a8e7390c82c558d1b2bb4ea7c/Enter_resume_description.png)
 
-5. AI Processing (OpenAI API)
+3. AI Processing (OpenAI API)
 The frontend sends the user's description to the Spring Boot backend.
 The backend calls the OpenAI API.
 The AI analyzes the description and extracts structured resume information such as:
@@ -33,6 +33,9 @@ Certifications
 Achievements
 Languages
 Interests
+
+https://github.com/pandeynidhi0210/Ai_Resume_Builder/blob/1116929a7b1ae05fcaf5aaa2ea287d200b123dd2/Ai_processing_openai_api.png
+
 6. Resume Form Auto-Fill
 The AI-generated data is returned from the backend.
 All resume fields are automatically filled in the editable resume form.
