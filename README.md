@@ -55,14 +55,18 @@ Update information before finalizing
 After reviewing the generated content, the user clicks Submit.
 The application validates the data.
 The structured resume information is stored in the MySQL database.
-6. Resume Preview
+
+![image alt](https://github.com/pandeynidhi0210/Ai_Resume_Builder/blob/4e6878da326af17665e9bbd01b3dbd45184ed362/Resume%20Submission%20After%20reviewing%20the%20generated%20content.png)
+
+
+7. Resume Preview
 The backend fetches the stored data.
 The resume is rendered using a professional HTML/CSS template.
 Users can preview the complete resume before downloading.
-7. PDF Generation
+8. PDF Generation
 When the user clicks Print/Download, the Spring Boot backend converts the HTML resume into a PDF.
 A professional ATS-friendly resume PDF is generated.
-8. Download Resume
+9. Download Resume
 The generated PDF is automatically downloaded.
 The user receives a ready-to-use resume that can be submitted for job applications.
 
